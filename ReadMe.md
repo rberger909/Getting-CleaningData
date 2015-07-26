@@ -8,11 +8,11 @@ The data related to this project was compile by the University of California - I
 - A link to the dataset itself can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 - A link with further information about the dataset can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-A Codebook (named 'Codebook.md') detailing information pertinent to making this data tidy can be found at: 
+A Codebook detailing information pertinent to making this data tidy can be found at: https://github.com/rberger909/Getting-CleaningData/blob/master/CodeBook.md
 
-The script (named 'run_analysis.R') developed to make the dataset tidy can be found at:
+The script developed to make the dataset tidy can be found at: https://github.com/rberger909/Getting-CleaningData/blob/master/run_analysis.R
 
-The tidy datset itself (named 'tidy-data.txt') can be found at: 
+The tidy datset itself can be found at: https://github.com/rberger909/Getting-CleaningData/blob/master/tidy-data.txt
 
 The 'run_analysis.R' script was developed using R version 3.2.1 and RStudio version 0.98.1103
 
